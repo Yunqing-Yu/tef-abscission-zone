@@ -1,4 +1,4 @@
-# tef-abscission-zone
+# Eragrostis tef abscission zone
 RNA-Seq analysis for the Eragrostis tef abscission zone paper
 ## Data availability
 All data is publicly available on Sequence Read Archive (BioProject ID PRJNA885107).
