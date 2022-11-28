@@ -3,7 +3,7 @@ RNA-Seq analysis for the Eragrostis tef abscission zone paper
 ## Data availability
 All data is publicly available on Sequence Read Archive (BioProject ID PRJNA885107).
 ## R scripts for RNA-Seq analysis
-Differential gene expression analysis
+[Differential gene expression analysis](DEseq2-STAR-htseq_tef_final.R)
 
 WGCNA
 
