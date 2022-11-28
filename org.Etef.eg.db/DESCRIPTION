@@ -1,0 +1,13 @@
+Package: org.Etef.eg.db
+Title: Genome wide annotation for Eragrostis tef
+Description: Genome wide annotation for Eragrostis tef, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.0.1
+Author: yyu <yyu@danforthcenter.org>
+Maintainer: yyu <yyu@danforthcenter.org>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.54.1)
+Suggests: DBI, annotate, RUnit
+License: Artistic-2.0
+organism: Eragrostis tef
+species: Eragrostis tef
+biocViews: OrgDb, annotation
+
