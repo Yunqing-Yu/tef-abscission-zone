@@ -13,5 +13,5 @@ If you use the data or scripts from this repository in your research, please cit
 
 Grain shattering by cell death and fracture in _Eragrostis tef_
 
-Yunqing Yu<sup>*</sup>, Getu Beyene, Justin Villmer, Keith E. Duncan, Hao Hu, Toni Johnson, Andrew N. Doust, Nigel J. Taylor, Elizabeth A. Kellogg "Grain shattering by cell death and fracture in Eragrostis tef." _Plant Physiology_ (2023): kiad079.
+Yunqing Yu<sup>*</sup>, Getu Beyene, Justin Villmer, Keith E. Duncan, Hao Hu, Toni Johnson, Andrew N. Doust, Nigel J. Taylor, Elizabeth A. Kellogg "Grain shattering by cell death and fracture in Eragrostis tef." _Plant Physiology_ (2023): kiad079. https://doi.org/10.1093/plphys/kiad079
 
